@@ -3,7 +3,7 @@ Cliente(idCliente, nombre, apellido, DNI, telefono, direccion)
 Factura (nroTicket, total, fecha, hora,idCliente (fk))
 Detalle(nroTicket, idProducto, cantidad, preciounitario)
 Producto(idProducto, descripcion, precio, nombreP, stock)
-
+sss
 
 1. Listar datos personales de clientes cuyo apellido comience con el string ‘Pe’. Ordenar por
 DNI
